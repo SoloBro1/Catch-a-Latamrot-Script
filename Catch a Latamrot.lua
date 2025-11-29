@@ -1,13 +1,13 @@
 -- LATAMROT HELPER - FULL VERSION
 -- Discord: https://discord.gg/UsHxrHuH
--- Key: Latamrot2025
+-- Key: SOMBRALATAMROT
 -- Hide: Press CTRL or — button
 
 local Players = game:GetService("Players")
 local plr = Players.LocalPlayer
 
 local DISCORD_LINK = "https://discord.gg/UsHxrHuH"
-local CORRECT_KEY = "Latamrot2025"
+local CORRECT_KEY = "SOMBRALATAMROT"
 
 local function createKeySystem()
     local KeyGui = Instance.new("ScreenGui")
